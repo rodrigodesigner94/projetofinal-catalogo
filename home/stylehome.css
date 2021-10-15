@@ -16,6 +16,7 @@ body{
   a {
     color: #fff;
     text-decoration: none;
+    transition: 0.3s;
   }
   
   a:hover {
@@ -37,8 +38,8 @@ body{
     background: #161616;
     height: 8vh;
     width: 100%;
-    padding-left: 100%;
-    padding-right: 100%;
+    padding-left: 1%;
+    /* padding-right: 1%; */
     margin-top: 0;
   }
     
